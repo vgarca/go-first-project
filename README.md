@@ -1,1 +1,2 @@
-# go-first-project
+# Get started with Go
+Introduction to Go programming.
